@@ -1,0 +1,44 @@
+.navbar {
+    position: absolute;
+    padding: 50px;
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: last baseline;
+}
+
+.navbar a {
+    display: flex;
+    color: #CAD4C4;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.navbar .nav-links {
+    display: flex;
+}
+
+.navbar .nav-links ul {
+    display: flex;
+
+}
+
+.navbar .nav-links ul li {
+    margin: 0 25px;
+
+}
+
+.navbar .nav-links ul li.active a {
+    color: #61D929;
+    font-weight: 600;
+}
+
+.navbar .menu-burger {
+    display: none;
+    width: 35px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    width: 35px;
+}
