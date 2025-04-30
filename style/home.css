@@ -1,0 +1,21 @@
+.styleformulaire {
+    background-color: #262c3a46;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 30px;
+    padding: 3rem;
+
+}
+
+.spaceform {
+    margin: 20px;
+}
+
+.formulaireWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}

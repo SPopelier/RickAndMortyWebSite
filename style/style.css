@@ -6,7 +6,7 @@ body {
 header {
     height: 200px;
     width: 100vw;
-    background-image: url("../TimelineCovers.pro_rick-and-morty-uhmm-facebook-cover.jpg");
+    background-image: url("../assets/coverRick.jpg");
     background-color: #262C3A;
     background-repeat: no-repeat;
     background-position: right;
@@ -128,7 +128,7 @@ h1 {
 
 
 .pistoPortail{
-    background-image: url("../681b00d06b2e20e4fe7c5dd5d2fcc63d.png");
+    background-image: url("../assets/portailGun.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
